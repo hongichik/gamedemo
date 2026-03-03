@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Game Trí Tuệ - Chọn Vòng Chơi</title>
+  <meta name="description" content="Chọn vòng chơi phù hợp với trình độ của bạn" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="level-select">
+    <h2>🎯 Chọn Vòng Chơi</h2>
+    <p style="margin-bottom: 24px; color: var(--text-secondary); font-size: 16px;">
+Hãy chọn mức độ phù hợp để bắt đầu thử thách!</p>
+    
+    <div id="levelsList" class="levels-list" role="list"></div>
+    
+    <div style="margin-top: 24px;">
+      <button id="backBtn" class="btn" type="button">
+        <span>⬅️ Quay lại</span>
+      </button>
+    </div>
+  </main>
+  
+  <script src="levels.js"></script>
+</body>
+</html>

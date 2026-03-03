@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Game Trí Tuệ - Chơi Game</title>
+  <meta name="description" content="Chơi game trí tuệ hấp dẫn với nhiều cấp độ khác nhau" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="game">
+    <!-- Game Start Section -->
+    <section id="gameStart" class="game-start">
+      <h2>🎆 Sẵn sàng chơi!</h2>
+      <p>Nhấn nút bên dưới để bắt đầu trò chơi</p>
+      <button id="startGameBtn" class="btn btn-large">
+        <span>🚀 Bắt đầu</span>
+      </button>
+      <button id="endGameBtn" class="btn btn-secondary">
+        <span>❌ Kết thúc</span>
+      </button>
+    </section>
+
+    <!-- Countdown Section -->
+    <section id="countdown" class="countdown hidden">
+      <div id="countdownNumber" class="countdown-number">3</div>
+      <div class="countdown-text">Chuẩn bị...</div>
+    </section>
+
+    <!-- Timer Section -->
+    <section id="timerSection" class="timer-section hidden">
+      <div class="timer-display">
+        <span>⏰ Thời gian: </span>
+        <span id="timeLeft">60</span>s
+      </div>
+    </section>
+
+    <!-- Game Playing Section -->
+    <section id="gamePlaying" class="hidden">
+      <header class="top">
+        <div class="score">🎖️ Điểm: <span id="score">0</span></div>
+        <div class="hearts" id="hearts">❤️❤️❤️</div>
+        <button id="endGameBtnPlaying" class="btn btn-small btn-danger">
+          <span>❌ Kết thúc</span>
+        </button>
+      </header>
+
+      <div class="game-content">
+        <div class="speaker-wrap">
+          <button id="playBtn" class="speaker" title="Phát âm thanh" aria-label="Phát âm thanh">🔊</button>
+          <div id="roundInfo" class="round-info">🎮 Game</div>
+        </div>
+
+        <div id="grid" class="grid" role="grid" aria-label="Lưới lựa chọn"></div>
+
+        <div id="message" class="message" role="status" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- Game Over Section -->
+    <section id="gameOver" class="game-over hidden">
+      <h2 id="gameOverTitle">🎉 Kết quả</h2>
+      <div class="final-score">
+        <div class="score-display">
+          <span class="score-label">Điểm cuối cùng:</span>
+          <span id="finalScore" class="score-value">0</span>
+        </div>
+      </div>
+      <div id="gameOverMessage" class="game-over-message"></div>
+      <div class="game-over-actions">
+        <button id="playAgainBtn" class="btn">
+          <span>🔄 Chơi lại</span>
+        </button>
+        <button id="backToLevelsBtn" class="btn btn-secondary">
+          <span>⬅️ Trở về danh sách level</span>
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

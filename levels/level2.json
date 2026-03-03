@@ -1,0 +1,107 @@
+{
+  "name": "Animals - Easy",
+  "timelimit": 60,
+  "background": "assets/level1/anh1.jpg",
+  "words": [
+    {
+        "word": "dog",
+        "description": "A common pet that barks.",
+        "image": "assets/dog.png"
+    },
+    {
+        "word": "cat",
+        "description": "A furry pet that meows and purrs.",
+        "image": "assets/cat.png"
+    },
+    {
+        "word": "elephant",
+        "description": "A large gray animal with a long trunk.",
+        "image": "assets/elephant.png"
+    },
+    {
+        "word": "lion",
+        "description": "The king of the jungle with a big mane.",
+        "image": "assets/lion.png"
+    },
+    {
+        "word": "tiger",
+        "description": "An orange and black striped big cat.",
+        "image": "assets/tiger.png"
+    },
+    {
+        "word": "rabbit",
+        "description": "A small animal that hops and has long ears.",
+        "image": "assets/rabbit.png"
+    },
+    {
+        "word": "bear",
+        "description": "A large furry animal that likes honey.",
+        "image": "assets/bear.png"
+    },
+    {
+        "word": "bird",
+        "description": "An animal that flies and has wings.",
+        "image": "assets/bird.png"
+    },
+    {
+        "word": "fish",
+        "description": "An animal that swims in water.",
+        "image": "assets/fish.png"
+    },
+    {
+        "word": "horse",
+        "description": "A big animal that people can ride.",
+        "image": "assets/horse.png"
+    },
+    {
+        "word": "cow",
+        "description": "A farm animal that gives milk.",
+        "image": "assets/cow.png"
+    },
+    {
+        "word": "pig",
+        "description": "A pink farm animal that says oink.",
+        "image": "assets/pig.png"
+    },
+    {
+        "word": "sheep",
+        "description": "A woolly farm animal that says baa.",
+        "image": "assets/sheep.png"
+    },
+    {
+        "word": "duck",
+        "description": "A water bird that quacks.",
+        "image": "assets/duck.png"
+    },
+    {
+        "word": "frog",
+        "description": "A green animal that jumps and croaks.",
+        "image": "assets/frog.png"
+    },
+    {
+        "word": "monkey",
+        "description": "A playful animal that swings on trees.",
+        "image": "assets/monkey.png"
+    },
+    {
+        "word": "giraffe",
+        "description": "A very tall animal with a long neck.",
+        "image": "assets/giraffe.png"
+    },
+    {
+        "word": "turtle",
+        "description": "A slow animal with a shell on its back.",
+        "image": "assets/turtle.png"
+    },
+    {
+        "word": "penguin",
+        "description": "A black and white bird that can't fly but swims well.",
+        "image": "assets/penguin.png"
+    },
+    {
+        "word": "butterfly",
+        "description": "A colorful flying insect with beautiful wings.",
+        "image": "assets/butterfly.png"
+    }
+  ]
+}
