@@ -407,7 +407,7 @@ body::before {
 }
 .levels-list{
     display: flex;
-
+    flex-wrap: wrap;
 }
 
 .level-item{
