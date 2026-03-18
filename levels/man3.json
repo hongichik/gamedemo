@@ -1,0 +1,57 @@
+{
+  "name": "Màn chơi về màu sắc",
+  "timelimit": 60,
+  "background": "assets/man3/1.jpg",
+  "words": [
+    {
+      "word": "white",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/1.jpg"
+    },
+    {
+      "word": "black",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/2.jpg"
+    },
+    {
+      "word": "red",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/3.jpg"
+    },
+    {
+      "word": "orange",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/4.jpg"
+    },
+    {
+      "word": "yellow",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/5.jpg"
+    },
+    {
+      "word": "green",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/6.jpg"
+    },
+    {
+      "word": "blue",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/7.jpg"
+    },
+    {
+      "word": "purple",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/8.jpg"
+    },
+    {
+      "word": "gray",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/9.jpg"
+    },
+    {
+      "word": "brown",
+      "description": "A common pet that barks.",
+      "image": "assets/man3/10.jpg"
+    }
+  ]
+}

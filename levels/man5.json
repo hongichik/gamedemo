@@ -1,0 +1,67 @@
+{
+  "name": "Màn chơi về hoa quả",
+  "timelimit": 60,
+  "background": "assets/man5/1.jpg",
+  "words": [
+    {
+      "word": "lemon",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/1.jpg"
+    },
+    {
+      "word": "cherry",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/2.jpg"
+    },
+    {
+      "word": "apple",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/3.jpg"
+    },
+    {
+      "word": "persimmon",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/4.jpg"
+    },
+    {
+      "word": "pear",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/5.jpg"
+    },
+    {
+      "word": "custard apple",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/6.jpg"
+    },
+    {
+      "word": "banana",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/7.jpg"
+    },
+    {
+      "word": "longan",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/8.jpg"
+    },
+    {
+      "word": "grape",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/9.jpg"
+    },
+    {
+      "word": "lychee",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/10.jpg"
+    },
+    {
+      "word": "mango",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/11.jpg"
+    },
+    {
+      "word": "wax apple",
+      "description": "A common pet that barks.",
+      "image": "assets/man5/12.jpg"
+    }
+  ]
+}

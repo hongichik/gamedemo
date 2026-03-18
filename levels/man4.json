@@ -1,0 +1,52 @@
+{
+  "name": "Màn chơi về địa điểm",
+  "timelimit": 60,
+  "background": "assets/man4/1.jpg",
+  "words": [
+    {
+        "word": "school",
+        "description": "A common pet that barks.",
+        "image": "assets/man4/1.jpg"
+    },
+    {
+        "word": "hotel",
+        "description": "A furry pet that meows and purrs.",
+        "image": "assets/man4/2.jpg"
+    },
+    {
+        "word": "zoo",
+        "description": "A large gray animal with a long trunk.",
+        "image": "assets/man4/3.jpg"
+    },
+    {
+        "word": "stadium",
+        "description": "The king of the jungle with a big mane.",
+        "image": "assets/man4/4.jpg"
+    },
+    {
+        "word": "playground",
+        "description": "An orange and black striped big cat.",
+        "image": "assets/man4/5.jpg"
+    },
+    {
+        "word": "pool",
+        "description": "A small animal that hops and has long ears.",
+        "image": "assets/man4/6.jpg"
+    },
+    {
+        "word": "sea",
+        "description": "A large furry animal that likes honey.",
+        "image": "assets/man4/7.jpg"
+    },
+    {
+        "word": "bus stop",
+        "description": "An animal that flies and has wings.",
+        "image": "assets/man4/8.jpg"
+    },
+    {
+        "word": "home",
+        "description": "An animal that swims in water.",
+        "image": "assets/man4/9.jpg"
+    }
+  ]
+}

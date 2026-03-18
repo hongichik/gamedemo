@@ -1,0 +1,82 @@
+{
+    "name": "Màn chơi về động vật",
+    "timelimit": 60,
+    "background": "assets/man2/1.jpg",
+    "words": [
+        {
+            "word": "Bat",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/1.jpg"
+        },
+        {
+            "word": "Frog",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/2.jpg"
+        },
+        {
+            "word": "Red panda",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/3.jpg"
+        },
+        {
+            "word": "Snow wolf",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/4.jpg"
+        },
+        {
+            "word": "Skink",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/5.jpg"
+        },
+        {
+            "word": "Fox",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/6.jpg"
+        },
+        {
+            "word": "Elephant",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/7.jpg"
+        },
+        {
+            "word": "Lion",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/8.jpg"
+        },
+        {
+            "word": "Camel",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/9.jpg"
+        },
+        {
+            "word": "Panda",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/10.jpg"
+        },
+        {
+            "word": "dog",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/11.jpg"
+        },
+        {
+            "word": "parrot",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/12.jpg"
+        },
+        {
+            "word": "dolphin",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/13.jpg"
+        },
+        {
+            "word": "monkey",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/14.jpg"
+        },
+        {
+            "word": "tiger",
+            "description": "A common pet that barks.",
+            "image": "assets/man2/15.jpg"
+        }
+    ]
+}
